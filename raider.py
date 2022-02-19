@@ -147,6 +147,14 @@ def spammer(url, message, delay):
             except:
                 print(Style.BRIGHT + Fore.RED + "[-]message payload sending faild!")
 
+time.sleep(2)
+
+print("""
+ ____  ____  _  _  ___  _____ 
+(_  _)( ___)( \( )/ __)(  _  )
+  )(   )__)  )  ( \__ \ )(_)( 
+ (__) (____)(_)\_)(___/(_____)
+    """)
 
 choise = int(input("action: 1=nuke, 2=wizarding server, 3=webhookspammer > "))
 
