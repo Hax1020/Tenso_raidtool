@@ -154,7 +154,7 @@ print("""
 (_  _)( ___)( \( )/ __)(  _  )
   )(   )__)  )  ( \__ \ )(_)( 
  (__) (____)(_)\_)(___/(_____)
-    """)
+""")
 
 choise = int(input("action: 1=nuke, 2=wizarding server, 3=webhookspammer > "))
 
